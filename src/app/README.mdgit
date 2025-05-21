@@ -1,0 +1,1 @@
+"# Image-To-Text-Extractor"  initgit add . commit -m "first commit"git branch -M maingit remote add origin https://github.com/LagrichMohamed/Image-To-Text-Extractor.gitgit push -u origin main

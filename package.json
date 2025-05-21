@@ -9,10 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emailjs/browser": "^4.4.1",
     "next": "15.3.2",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-icons": "^5.5.0",
+    "react-toastify": "^11.0.5",
     "tesseract.js": "^6.0.1"
   },
   "devDependencies": {
